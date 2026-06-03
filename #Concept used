@@ -1,0 +1,7 @@
+## Concepts Used
+
+- `rand()` → Generates a random number.
+- `srand(time(0))` → Initializes the random number generator using current time.
+- `string` → Stores the password.
+- `for loop` → Generates characters one by one.
+- `function` → Used to create passwords (`generatePassword()`).
